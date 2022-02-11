@@ -4,7 +4,7 @@ spotify-to-stl is a python command-line based program designed to get .stl file 
 
 # Installation
 For usage of this program you need those 5 files: `spotify-to-stl.py`, `get_svg_file.py`, `parse_svg.py`, `template17.stl`, `chromedriver.exe`  
-And you have to have installed:
+And you have to have installed (you can run: `pip install -r requirements.txt`):
 - `pip install numpy`
 - `pip install numpy-stl`
 - `pip install selenium`  
